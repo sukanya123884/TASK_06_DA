@@ -1,0 +1,6 @@
+OrderID,Product,Category,Quantity,Price,TotalSales,OrderDate
+101,Laptop,Electronics,2,60000,120000,01-09-2025
+102,Mobile,Electronics,5,20000,100000,02-09-2025
+103,Tablet,Electronics,3,15000,45000,03-09-2025
+104,Headphones,Accessories,10,2000,20000,04-09-2025
+105,Smartwatch,Accessories,4,8000,32000,05-09-2025
