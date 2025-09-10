@@ -7,7 +7,7 @@ This project demonstrates how to use **SQLite + SQL + Python (Pandas + Matplotli
 - **`sales_data.csv`** → Sample sales dataset (5 rows of sales records)  
 - **`sales_data.db`** → SQLite database created from the CSV file  
 - **`query_and_chart.ipynb`** → Jupyter Notebook containing all SQL queries and visualizations  
-- ** (.png)** → Saved plots for revenue and sales analysis  
+- **(.png)** → Saved plots for revenue and sales analysis  
 
 ##  Workflow
 
